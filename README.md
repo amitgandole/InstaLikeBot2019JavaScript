@@ -1,4 +1,4 @@
-# InstaLikeBot2019JavaScript
+# InstaLikeBot2020JavaScript
 Instagram like bot in Javascript.
 #Javascript #JS #instagram
 This script is just for fun. 
